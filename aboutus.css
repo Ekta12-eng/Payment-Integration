@@ -1,0 +1,63 @@
+body{
+    background-color:#747d8c;
+    background-size: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    animation: beganimation 15s infinite;
+    position: relative;
+
+}
+.about {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+     border-style: solid;
+    text-decoration: none;
+    border-radius: 36px;
+    position: relative;
+    margin: 73px;
+    padding: auto;
+    background-image: linear-gradient(#ffffff,#a4b0);
+}
+{
+margin :0;
+padding: 0;
+}
+.column2{
+    padding: 100px;
+    margin-top: -430px;
+    background-color:;
+   float: left;
+   width: 533px;
+   align-items: center;
+   padding: 40px; 
+   /* background-color: revert; */
+   color: black;
+   background-image:linear-gradient(#C4E538,#9980FA,#12CBC4);
+   position: relative;
+   left: 17%;
+   width: 60%;
+   border-radius: 5px;
+   color: black;
+  }   
+  /* Style the container/contact section */
+  
+  .container {
+   position: relative;
+   left: 17%;
+   width: 70%;
+   border-radius: 5px;
+   background-color: darkcyan;
+   padding: 10px;
+   color: black
+  }
+  
+  
+  .row:after {
+   content: "";
+   display: table;
+   clear: both;
+  }
+  
+ 
